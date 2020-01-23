@@ -1,1 +1,5 @@
-select * from sys.objects
+USE MASTER
+GO
+
+SELECT * FROM SYS.OBJECTS
+GO
